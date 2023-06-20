@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0A37EB90-3D71-4AF5-BB22-43CCBD625D54"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCCBC1B7-8035-4F71-BBCB-5732F967B673"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WatchedIt/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "calcSimilarity(embedding1:embedding2:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CCCBC1B7-8035-4F71-BBCB-5732F967B673 - bcb6f7286a9d0c8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WatchedIt.DataManager.calcSimilarity(embedding1: Swift.Array&lt;Swift.Double&gt;, embedding2: Swift.Array&lt;Swift.Double&gt;) -&gt; Swift.Double"
+                  moduleName = "WatchedIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ds_dil/Desktop/Swift/WatchedIt/WatchedIt/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "195">
+               </Location>
+               <Location
+                  uuid = "CCCBC1B7-8035-4F71-BBCB-5732F967B673 - bcb6f7286a9d0cea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WatchedIt.DataManager.calcSimilarity(embedding1: Swift.Array&lt;Swift.Double&gt;, embedding2: Swift.Array&lt;Swift.Double&gt;) -&gt; Swift.Double"
+                  moduleName = "WatchedIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ds_dil/Desktop/Swift/WatchedIt/WatchedIt/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "169"
+                  endingLineNumber = "169"
+                  offsetFromSymbolStart = "195">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "293E2EC1-1CEB-4B78-9DA0-2E41DCE6EA39"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WatchedIt/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "serchMovie(desc:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "293E2EC1-1CEB-4B78-9DA0-2E41DCE6EA39 - 2d9ddfffeddbfec0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WatchedIt.DataManager.serchMovie(desc: Swift.String) -&gt; ()"
+                  moduleName = "WatchedIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ds_dil/Desktop/Swift/WatchedIt/WatchedIt/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "453">
+               </Location>
+               <Location
+                  uuid = "293E2EC1-1CEB-4B78-9DA0-2E41DCE6EA39 - 2d9ddfffeddbfec0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WatchedIt.DataManager.serchMovie(desc: Swift.String) -&gt; ()"
+                  moduleName = "WatchedIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ds_dil/Desktop/Swift/WatchedIt/WatchedIt/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "349">
+               </Location>
+               <Location
+                  uuid = "293E2EC1-1CEB-4B78-9DA0-2E41DCE6EA39 - 2d9ddfffeddbfec0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WatchedIt.DataManager.serchMovie(desc: Swift.String) -&gt; ()"
+                  moduleName = "WatchedIt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ds_dil/Desktop/Swift/WatchedIt/WatchedIt/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "420">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

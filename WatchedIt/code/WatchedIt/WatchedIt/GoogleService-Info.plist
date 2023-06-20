@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>476410463066-ah2t1oukjp30qnt50tsth0dj2md3k19d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.476410463066-ah2t1oukjp30qnt50tsth0dj2md3k19d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCrtBF_XPa_NOjs72UIJJPZojeJIRwj130</string>
+	<key>GCM_SENDER_ID</key>
+	<string>476410463066</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>watchedIt.watchedIt</string>
+	<key>PROJECT_ID</key>
+	<string>watchedit-7e6ba</string>
+	<key>STORAGE_BUCKET</key>
+	<string>watchedit-7e6ba.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:476410463066:ios:5cbfcb5eafab1f1fe1a963</string>
+</dict>
+</plist>
